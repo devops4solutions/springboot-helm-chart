@@ -2,8 +2,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'springboot/**'
   workflow_dispatch:
 jobs:
   release:
