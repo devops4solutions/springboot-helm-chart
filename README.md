@@ -1,6 +1,10 @@
 
 # Deploying Helm Charts using GitHub Pages  
 
+## References
+
+[Video](https://youtu.be/x4IF7yyWw9g)
+
 ## 📌 Overview  
 This repository demonstrates how to **publish a Helm Chart on GitHub Pages** and turn it into a **self-hosted Helm Chart repository** using **GitHub Actions**. This allows you to store, manage, and deploy Helm Charts easily across multiple Kubernetes projects.  
 
