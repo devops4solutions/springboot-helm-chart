@@ -3,6 +3,16 @@ entries:
   springboot:
   - apiVersion: v2
     appVersion: latest
+    created: "2025-05-12T19:32:07.115152566Z"
+    description: A Helm chart for Kubernetes
+    digest: d136a93469a3096f4cf7b887ca4aeac4a760157caebf019fd9a85e2f4417c8c4
+    name: springboot
+    type: application
+    urls:
+    - https://github.com/devops4solutions/springboot-helm-chart/releases/download/springboot-0.1.6/springboot-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: latest
     created: "2025-03-01T21:35:12.661006054Z"
     description: A Helm chart for Kubernetes
     digest: d137246784ab2d1335b92bce7e53bba81c0230a4dd8b165dc9d5f3e26852eb04
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://github.com/devops4solutions/springboot-helm-chart/releases/download/springboot-0.1.3/springboot-0.1.3.tgz
     version: 0.1.3
-generated: "2025-03-01T21:35:12.661020661Z"
+generated: "2025-05-12T19:32:07.115175158Z"
